@@ -21,8 +21,8 @@
     },
     "publish": {
       "provider": "github",
-      "repo": "airdrop",
-      "owner": "vj-abishek"
+      "repo": "syndex",
+      "owner": "henryhuangbc"
     }
   },
   "dependencies": {
